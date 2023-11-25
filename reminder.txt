@@ -1,0 +1,1 @@
+reset all di link chrome://flags/#unsafely-treat-insecure-origin-as-secure
